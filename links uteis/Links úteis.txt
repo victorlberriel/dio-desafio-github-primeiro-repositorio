@@ -1,0 +1,5 @@
+Sintaxe básica de Markdown: https://www.markdownguide.org/basic-syntax/
+
+Git download: https://git-scm.com/downloads
+
+GitKraken: https://www.gitkraken.com/
